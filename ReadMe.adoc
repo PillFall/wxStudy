@@ -1,0 +1,14 @@
+= wxStudy
+Joar Esteban Buitrago Carrillo <jebuitragoc@unal.edu.co>
+v1.0. 2021-06-07
+
+These folders include code from all the wxWidgets examples. But
+commented in a way that I could understand better was going on in the
+code.
+
+All the examples was rewritten in a way that must compile in both
+Linux and Windows (I do not have a Mac, so I could not test it) using
+CMake as the build generator.
+
+Each example has another ReadMe file trying to explain what is the
+purpose of the code and app.
