@@ -1,0 +1,4 @@
+= "Hello World" Program
+
+In this example we create a pretty simple application using wxWidgets,
+with a menu bar, a status bar and some message boxes.
