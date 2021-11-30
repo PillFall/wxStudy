@@ -1,0 +1,6 @@
+= wxConfig Program
+
+In this example, we create some basic configurations for wxWidgets,
+via INI-like config file or Registry Keys (Windows).
+
+There are 7 configurations distributed over 2 groups and the root.
